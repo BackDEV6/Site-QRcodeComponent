@@ -1,0 +1,14 @@
+@media (max-width: 400px){
+    .qr-code{
+    width: 305px;
+    height: 600px;
+    }
+    .code-box{
+        width: 305px;
+        height: 305px;
+    }
+    .code-box .code-img{
+        width: 305px;
+        height: 305px;
+    }
+}
