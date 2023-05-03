@@ -1,10 +1,6 @@
 
 *.sketch
 *.fig
-README.md
-README-template.md
-style-guide.md
-design
 *.xd
 .DS_Store
 .prettierignore
